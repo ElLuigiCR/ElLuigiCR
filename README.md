@@ -111,7 +111,7 @@
 <!--profile visit count-->
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=jozefmora&style=for-the-badge&color=blueviolet)](https://github.com/jozefmora)
+[![](https://komarev.com/ghpvc/?username=ElLuigiCR&style=for-the-badge&color=blueviolet)](https://github.com/ElLuigiCR)
 
 </div>
 
