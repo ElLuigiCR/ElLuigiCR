@@ -104,7 +104,7 @@
 ## 🤝 Conecta conmigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jozefmora/" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="linkedin" /></a>
+<a href="[https://www.linkedin.com/in/jozefmora/](https://www.linkedin.com/in/jozef-mora-araya-35ab462b3/)" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="linkedin" /></a>
 <a href="mailto:25jmafa25@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="email" /></a>
 </p>
 
